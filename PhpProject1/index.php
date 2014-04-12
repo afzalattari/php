@@ -14,6 +14,7 @@ and open the template in the editor.
         // put your code here
         echo 'MyCode';
         echo 'AgainCommit';
+        echo 'Third Commit';
         ?>
     </body>
 </html>
