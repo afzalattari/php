@@ -7,4 +7,5 @@
  */
 
 echo 'My View Page';
+echo 'My View First Commit';
 ?>
