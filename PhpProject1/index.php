@@ -24,10 +24,7 @@ and open the template in the editor.
         
         echo 'New LIne 2';
         
-        //Starting Major Change
         
-        echo 'New Line';
-        echo 'New Line 2 of Major';
         ?>
     </body>
 </html>
