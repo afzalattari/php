@@ -17,6 +17,14 @@ and open the template in the editor.
         echo 'Third Commit';
         echo 'Four Commit';
         echo 'Six Commit';
+        
+        
+        //New Line Addtion
+        echo 'New Line';
+        
+        echo 'New LIne 2';
+        
+        
         ?>
     </body>
 </html>
