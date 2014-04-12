@@ -15,6 +15,8 @@ and open the template in the editor.
         echo 'MyCode';
         echo 'AgainCommit';
         echo 'Third Commit';
+        echo 'Four Commit';
+        echo 'Six Commit';
         ?>
     </body>
 </html>
