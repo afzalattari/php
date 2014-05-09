@@ -18,6 +18,7 @@ and open the template in the editor.
         echo 'Four Commit';
         echo 'Six Commit';
         
+        echo '5/9/2014';
         
         //New Line Addtion
         echo 'New Line';
